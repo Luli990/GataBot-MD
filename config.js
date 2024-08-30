@@ -10,9 +10,9 @@ import { es as esDefault, en as enDefault } from "./lib/multi-language/_default.
 import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-// [ES] > Agrega el número que será Bot y los que serán propietarios.
-// [EN] > Add the number that will be Bot and those that will be owners.
-global.owner = [
+// ["51950246253"] > Agrega el número que será Bot y los que serán propietarios.
+// ["51950246253"] > Add the number that will be Bot and those that will be owners.
+global.owner = ["51950246253"]
 ["573147616444", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 ["593968585383"], 
 ["5492266613038"], 
